@@ -1,0 +1,3 @@
+flask
+stellar-sdk
+bip-utils
